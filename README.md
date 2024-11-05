@@ -92,12 +92,6 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ğŸ
 
 </div>
 
-<br />
-
-### Appearance trajectory ğŸ–
-
-<img align='left' src='https://github-readme-activity-graph.cyclic.app/graph?username=XIYExi&theme=dracula'/>
-
 
 <br />
 
@@ -143,7 +137,7 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ğŸ
 
 <br />
 
-### - What i do
+### - What i do ğŸ– Appearance trajectory 
 
 
 <br />
@@ -155,6 +149,9 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ğŸ
 <a href="https://github.com/XIYExi/Rotten_work">
 <img align="center" src="./Group2.png" />
 </a>
+
+
+<img align='left' src='https://github-readme-activity-graph.cyclic.app/graph?username=XIYExi&theme=dracula'/>
 
 
 
