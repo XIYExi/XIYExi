@@ -48,6 +48,10 @@
  
  - All About living life at its best.
 
+<p align="center">
+  <h4> Full Stack | Agile Development </h4>
+</p>
+
 <br/>
 
 <details>
@@ -56,11 +60,9 @@
 ```txt
 No activity tracked !
 ```
-
 </details>
 
 <br />
-
 
 <details>
 <summary>i need coffeeeeeeee</summary>
@@ -75,14 +77,7 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
 
 
-
-<p align="center">
-  <h4> Full Stack | Agile Development </h4>
-</p>
-
-<div>
-
-### - languages and tools...
+### - **languages and tools...**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -114,21 +109,19 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
+<br/>
    
 <a href=''>
    <p align='left'>
-  <img  src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
+     <img  src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
    </p>
 </a>
   
 <a href=''>
-   <p align='right>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
+   <p align='left>
+     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
   </p>
 </a>
-
-</div>
-
 
 <br />
 
