@@ -96,7 +96,7 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ğŸ
 
 ### Appearance trajectory ğŸ–
 
-<img align='center' src='https://github-readme-activity-graph.cyclic.app/graph?username=XIYExi&theme=dracula'/>
+<img align='left' src='https://github-readme-activity-graph.cyclic.app/graph?username=XIYExi&theme=dracula'/>
 
 
 <br />
