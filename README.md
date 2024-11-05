@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+<a href=''>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
+</a>
+  
+<a href=''>
+  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=compact' />
+</a>
+  
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
