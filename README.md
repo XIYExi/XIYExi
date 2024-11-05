@@ -79,11 +79,9 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
 ### - **languages and tools...**
 
-<a href=''>
-   <p align='left>
-     <img src='https://github-readme-stats.vercel.app/api/top-langs?username=XIYExi&layout=normal' />
-  </p>
-</a>
+<img src='https://github-readme-stats.vercel.app/api/top-langs?username=XIYExi&layout=normal' />
+
+<br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
