@@ -139,11 +139,11 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
 <br />
 
-<a href="https://github.com/XIYExi/Envelope">
+<a align='center' href="https://github.com/XIYExi/Envelope">
 <img align="center" src="./Group1.png" />
 </a>
 
-<a href="https://github.com/XIYExi/Rotten_work">
+<a align='center' href="https://github.com/XIYExi/Rotten_work">
 <img align="center" src="./Group2.png" />
 </a>
 
