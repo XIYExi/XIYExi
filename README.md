@@ -96,7 +96,7 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 <br />
 
 
-### - Languages and Tools...
+<h5 align="center">  Languages and Tools... </h5>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
