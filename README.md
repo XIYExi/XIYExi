@@ -76,12 +76,12 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
 
 
-
 <p align="center">
   <h4> Full Stack | Agile Development </h4>
 </p>
 
 
+<div>
 <a href=''>
   <img align='left' src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
 </a>
@@ -89,6 +89,8 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 <a href=''>
   <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
 </a>
+
+</div>
 
 <br />
 
