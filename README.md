@@ -82,21 +82,6 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
 
 <div>
-<a href=''>
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
-</a>
-  
-<a href=''>
-  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
-</a>
-
-</div>
-
-
-<br />
-
-
-### - Languages and Tools... 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -127,6 +112,18 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+   
+<a href=''>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
+</a>
+  
+<a href=''>
+  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
+</a>
+
+</div>
+
 
 <br />
 
