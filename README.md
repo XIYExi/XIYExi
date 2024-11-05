@@ -150,6 +150,11 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
+
+
+[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
    
    
 <br />
