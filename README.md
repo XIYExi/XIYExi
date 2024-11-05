@@ -1,23 +1,39 @@
-## Hi there 👋
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Xiye</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<!--
-**XIYExi/XIYExi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+    <a href="/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<div align="center">
+    <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        🙎 沙拉夕子xiyeye | 💻 Full Stack Developer | 🛸 China  
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<br />
+ 
+<h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+</h5>
+
+
+<br />
+
+
+
+<img align="right" height="180px" width="180px" style="border-radius: 10px; margin-left: 5px;"  src="./avatar.jpg" />
 <p align="center">
   <h3> A Full-stack developers driven by interest</h3>
 </p>
@@ -26,7 +42,7 @@ Here are some ideas to get you started:
  
  - <i>with Javascript, React, SpringBoot, SpringCloud, Flask and so on...</i>
    
- - 🔭 Why not develop TypeScript that does not require type validation, <u>why don't we call it JavaScript</u>😼
+ - 🔭 Why not develop TypeScript that does not require type validation, <del>why don't we call it JavaScript</del>😼
 
  - 🛸 My favorite character is やなみあんな（Yanami Anna）.
  
@@ -34,8 +50,9 @@ Here are some ideas to get you started:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
+ - 💬 Connect? lets get social
+
+
 <p align="center">
   <h4> Full Stack | Agile Development </h4>
 </p>
@@ -54,4 +71,3 @@ Here are some ideas to get you started:
 </a>
   
 </div>
-
