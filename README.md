@@ -80,8 +80,9 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
   <h4> Full Stack | Agile Development </h4>
 </p>
 
-
 <div>
+
+### - languages and tools...
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -115,11 +116,15 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 
    
 <a href=''>
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
+   <p align='left'>
+  <img  src='https://github-readme-stats.vercel.app/api?username=XIYExi&show_icons=true&theme=redical' />
+   </p>
 </a>
   
 <a href=''>
-  <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
+   <p align='right>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
+  </p>
 </a>
 
 </div>
