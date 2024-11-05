@@ -25,10 +25,8 @@
 <br />
  
 <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️⚡️</i>
 </h5>
-
-
 <br />
 
 
@@ -46,11 +44,9 @@
 
  - 🛸 My favorite character is やなみあんな（Yanami Anna）.
  
- - I do fullstack and a bit of everything :heart:
+ - 💬 I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
- 
- - 💬 Connect? lets get social
 
 
 <p align="center">
