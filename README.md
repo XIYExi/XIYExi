@@ -119,7 +119,7 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
   
 <a href=''>
    <p align='left>
-     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=XIYExi&layout=normal' />
+     <img src='https://github-readme-stats.vercel.app/api/top-langs?username=XIYExi&layout=normal' />
   </p>
 </a>
 
@@ -144,9 +144,6 @@ if you like what i do, maybe consider buying me a coffee/tea (plz send to b309ðŸ
 <a  href="https://github.com/XIYExi/Rotten_work">
 <p align='center'><img src="./Group2.png" /></p>
 </a>
-
-
-<img align='left' src='https://github-readme-activity-graph.cyclic.app/graph?username=XIYExi&theme=dracula'/>
 
 
 
